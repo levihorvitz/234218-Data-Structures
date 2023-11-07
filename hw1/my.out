@@ -1,0 +1,30 @@
+#Test: BasicTest. NumCommands: 30. MinInt: -20. MaxInt: 100. With outer errors. Seed: 8892186870335112229.
+#Injecting commands before Init
+AddEmployee: INVALID_INPUT
+PromoteEmployee: INVALID_INPUT
+GetHighestEarnerInEachCompany: INVALID_INPUT
+GetHighestEarner: INVALID_INPUT
+AddCompany: INVALID_INPUT
+RemoveCompany: INVALID_INPUT
+GetHighestEarnerInEachCompany: INVALID_INPUT
+GetCompanyInfo: INVALID_INPUT
+RemoveEmployee: INVALID_INPUT
+Init done
+AddCompany: SUCCESS
+AddCompany: SUCCESS
+AddCompany: SUCCESS
+AddEmployee: SUCCESS
+AddEmployee: SUCCESS
+AddEmployee: SUCCESS
+AcquireCompany: SUCCESS
+IncreaseCompanyValue: SUCCESS
+PromoteEmployee: SUCCESS
+GetHighestEarner: FAILURE
+GetAllEmployeesBySalary: SUCCESS. Highest earners:
+Employee Rank || Employee ID
+0 - 13
+1 - 12
+GetHighestEarnerInEachCompany: SUCCESS. Highest earners:
+Company Index || Employee ID
+0 - 11
+1 - 13

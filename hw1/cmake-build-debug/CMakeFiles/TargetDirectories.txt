@@ -1,0 +1,3 @@
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/cmake-build-debug/CMakeFiles/hw1_wet.dir
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/cmake-build-debug/CMakeFiles/rebuild_cache.dir

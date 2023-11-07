@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/avl_tree.h
+exception
+-
+iostream
+-
+utils.h
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/utils.h
+avl_tree.h
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/avl_tree.h
+cassert
+-
+
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/competition.cpp
+competition.h
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/competition.h
+cstdlib
+-
+iostream
+-
+cmath
+-
+
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/competition.h
+avl_tree.h
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/avl_tree.h
+exception
+-
+iostream
+-
+
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/library1.cpp
+library1.h
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/library1.h
+competition.h
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/competition.h
+
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/library1.h
+
+C:/Users/osama/Documents/data structures/aviv/hw1_wet_project/hw1_wet/utils.h
+exception
+-
+
